@@ -1,8 +1,8 @@
 # Ana Krivokapic
 
-* <akrivokapic1@gmail.com>
-* Archinetova 13, 1000 Ljubljana, Slovenia
-* +386 30 270675
+<akrivokapic1@gmail.com>  
+Archinetova 13, 1000 Ljubljana, Slovenia  
++386 30 270675  
 
 ## Summary
 
