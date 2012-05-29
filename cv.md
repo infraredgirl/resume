@@ -9,7 +9,7 @@ Archinetova 13, 1000 Ljubljana, Slovenia
 A skilled programmer with experience across various languages and technologies with a focus on Python, Django and Linux system administration. Strong expertise in algorithms, data structures and computer science fundamentals. Background in mathematics with strong analytical and problem solving skills.
 
 
-## Technical skills
+## Skills
 
 **Proficient in**
 
