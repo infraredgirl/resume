@@ -27,7 +27,7 @@ A skilled programmer with experience across various languages and technologies w
 
 ## Experience
 
-### Petra Marketing, Ljubljana, Slovenia
+### [Petra Marketing](http://www.petramarketing.si/), Ljubljana, Slovenia
 
 #### Python Developer - April 2011 to present
 
@@ -36,7 +36,7 @@ Backend Python and Django development; occasional frontend development (HTML, Ja
  * Participated in development of order routing system. Implemented various connectors to external APIs
  * Implemented a procedure for automation of the project deployment
 
-### Orion Telekom, Belgrade, Serbia
+### [Orion Telekom](http://www.oriontelekom.rs), Belgrade, Serbia
 
 #### Software Developer - April 2010 to March 2011
 
@@ -46,7 +46,7 @@ Python scripting in the Linux environment for automation of various system monit
  * Developed a system for calculating incoming and outgoing telephone trafic, used for monthly calculation of interconnecting trafic with other fixed and mobile telephony providers
  * Developed an SMS alerting system for monitoring phone trafic overload is detected.
  
-### Pharm-Olam International, Belgrade, Serbia 
+### [Pharm-Olam International](http://www.pharm-olam.com), Belgrade, Serbia 
  
 #### UAT Specialist - March 2008 to March 2010 (part-time)
 
