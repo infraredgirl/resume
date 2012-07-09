@@ -33,7 +33,7 @@ A skilled programmer with experience across various languages and technologies w
 
 Backend Python and Django development; occasional frontend development (HTML, JavaScript/jQuery). Third party API integration. Administration of local and remote Linux servers. Automation of deployment on AWS EC2.
 
- * Participated in development of order routing system. 
+ * Participated in development of order routing system 
  * Implemented various connectors to external APIs
  * Implemented a procedure for automation of the project deployment
 
@@ -45,7 +45,7 @@ Python scripting in the Linux environment for automation of various system monit
 
  * Developed a web application for playing and copying recorded phone call conversations, used by the technical support department managers for monthly evaluation of technical support phone operators
  * Developed a system for calculating incoming and outgoing telephone traffic, used for monthly calculation of interconnecting traffic with other fixed and mobile telephony providers
- * Developed an SMS alerting system for monitoring phone traffic overload is detected.
+ * Developed an SMS alerting system for monitoring phone traffic overload is detected
  
 ### [Pharm-Olam International](http://www.pharm-olam.com), Belgrade, Serbia 
  
