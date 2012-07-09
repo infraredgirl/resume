@@ -33,7 +33,8 @@ A skilled programmer with experience across various languages and technologies w
 
 Backend Python and Django development; occasional frontend development (HTML, JavaScript/jQuery). Third party API integration. Administration of local and remote Linux servers. Automation of deployment on AWS EC2.
 
- * Participated in development of order routing system. Implemented various connectors to external APIs
+ * Participated in development of order routing system. 
+ * Implemented various connectors to external APIs
  * Implemented a procedure for automation of the project deployment
 
 ### [Orion Telekom](http://www.oriontelekom.rs), Belgrade, Serbia
