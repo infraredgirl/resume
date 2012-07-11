@@ -33,6 +33,8 @@ A skilled programmer with experience across various languages and technologies w
 
 Backend Python and Django development; occasional frontend development (HTML, JavaScript/jQuery). Third party API integration. Administration of local and remote Linux servers. Automation of deployment on AWS EC2.
 
+Technologies used: python, django, subversion, git, bash, ubuntu, centos, apache, mysql, pip, aws, fabric, south, javascript, jquery, xhtml, boto, lettuce.
+
  * Participated in development of order routing system 
  * Implemented various connectors to external APIs
  * Implemented a procedure for automation of the project deployment
@@ -42,6 +44,8 @@ Backend Python and Django development; occasional frontend development (HTML, Ja
 #### Software Developer - April 2010 to March 2011
 
 Python scripting in the Linux environment for automation of various system monitoring and administrative tasks. Some web development in PHP, Python, JavaScript and HTML. Writing advanced SQL queries to create custom reports.
+
+Technologies used: centos, ubuntu, fedora, python, bash, perl, php, javascript, html, sql-server, mysql.
 
  * Developed a web application for playing and copying recorded phone call conversations, used by the technical support department managers for monthly evaluation of technical support phone operators
  * Developed a system for calculating incoming and outgoing telephone traffic, used for monthly calculation of interconnecting traffic with other fixed and mobile telephony providers
