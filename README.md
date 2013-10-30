@@ -1,8 +1,18 @@
-# Ana Krivokapic
+# Ana Krivokapić
 
+### Contact info
 <akrivokapic1@gmail.com>  
-Hrazka 34, 62100 Brno, Czech Republic  
-+420 776 263 816  
+Hrázka 619/34, 62100 Brno, Czech Republic  
++420 776 263 816
+
+### Online presence
+[GitHub](https://github.com/infraredgirl) |
+[LinkedIn](http://www.linkedin.com/pub/ana-krivokapi%C4%87/11/22a/619) |
+[StackOverflow](http://stackoverflow.com/users/378065/infrared) |
+[Ohloh](https://www.ohloh.net/accounts/akrivoka) |
+[CoderWall](https://coderwall.com/infraredgirl) |
+[Lanyrd](http://lanyrd.com/profile/infraredgirl) |
+[Twitter](https://twitter.com/infraredgirl)
 
 ## Summary
 
