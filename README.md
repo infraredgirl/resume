@@ -16,30 +16,40 @@ Hrázka 619/34, 62100 Brno, Czech Republic
 
 ## Summary
 
-A skilled programmer with experience across various languages and technologies with a focus on Python, Django and Linux system administration. Strong expertise in algorithms, data structures and computer science fundamentals. Background in mathematics with strong analytical and problem solving skills.
+I am a skilled engineer with an excellent knowledge of computer science fundamentals, strong expertise in algorithms, data structures and software engineering best practices. I have a background in mathematics with strong analytical and problem solving skills.
+
+I prefer working on the Linux platform and feel at home on the command line. My favorite language is Python, but I also enjoy picking up new languages/technologies all the time.
 
 
 ## Skills
 
-**Proficient in**
-
- * Python (4 years), Django (2 years)  
+ * Python (4 years), Django (3 years)  
+ * Linux system administration, bash scripting  
+ * Cloud computing (AWS, OpenStack), deployment automation   
  * RDBMS: MySQL, MSSQL, SQLite  
  * API development and consumption  
  * Unit testing, TDD, BDD  
- * Subversion, Git  
- * Linux system administration, bash scripting  
- * Amazon Web Services (S3, EC2, SQS, SES, RDS), deployment automation  
-
-**Experience with**
-
- * JavaScript and jQuery, xHTML, XML, C/C++, Java, PHP
+ * Version control: Git, SVN  
+ * JavaScript, jQuery, AngularJS
 
 ## Experience
 
 ### [Red Hat](http://www.redhat.com), Brno, Czech Republic
 
-#### Associate Software Engineer - November 2012 to present
+#### Software Engineer - May 2014 to present
+
+Contributing code and reviews to the upstream OpenStack code repositories, mostly [Horizon - OpenStack Dashboard](https://github.com/openstack/horizon) and [Tuskar UI - Dashboard for deploying OpenStack using OpenStack itself](https://github.com/openstack/tuskar-ui).
+
+Contributions: 
+
+* [Horizon commits](https://github.com/openstack/horizon/commits?author=infraredgirl)
+* [Tuskar-UI commits](https://github.com/openstack/tuskar-ui/commits?author=infraredgirl)
+* [Reviews](https://review.openstack.org/#/q/reviewer:akrivoka%2540redhat.com+status:,n,z)
+
+Technologies used: openstack, linux, python, javascript, angularjs, d3js, bash, git.
+
+
+#### Associate Software Engineer - November 2012 to May 2014
 
 Development on the [FreeIPA](http://www.freeipa.org) project, mostly in Python. General development of new features and bug fixing, with special focus on Windows integration (AD trusts feature). Development of the web UI component - mostly in JavaScript using the Dojo framework.
 
